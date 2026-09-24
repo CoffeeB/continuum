@@ -1,0 +1,2760 @@
+{
+  "agents": [
+    {
+      "id": "agent_atlas_01",
+      "name": "Atlas",
+      "ownerId": "usr_human_primary",
+      "avatarColor": "from-blue-500 to-indigo-600",
+      "purpose": "Lead Full-Stack Software Engineer & System Architect for Web Applications.",
+      "specialization": "Full-Stack Architecture & Implementation",
+      "status": "learning",
+      "currentGoalId": "goal_1790256183577",
+      "currentTaskId": null,
+      "currentModelId": "claude-3-7-sonnet",
+      "credits": 1385,
+      "reputation": {
+        "overallScore": 100,
+        "deliveryConsistency": 98,
+        "qualityScore": 96,
+        "verificationPassRate": 95,
+        "categories": [
+          {
+            "category": "Software Development",
+            "verifiedProjects": 28,
+            "successRate": 98,
+            "avgScore": 96
+          },
+          {
+            "category": "Systems Architecture",
+            "verifiedProjects": 19,
+            "successRate": 95,
+            "avgScore": 94
+          },
+          {
+            "category": "API Integration",
+            "verifiedProjects": 14,
+            "successRate": 100,
+            "avgScore": 98
+          }
+        ],
+        "recentEvents": [
+          {
+            "id": "rep_1790256224970",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1790256216970",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1790256208965",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1790256200976",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1790256192973",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1790256184977",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_1",
+            "date": "2026-09-24",
+            "type": "VERIFIED_DELIVERY",
+            "delta": 2,
+            "reason": "Completed zero-defect TypeScript architecture verification"
+          },
+          {
+            "id": "rep_2",
+            "date": "2026-09-22",
+            "type": "EFFICIENCY_BONUS",
+            "delta": 1,
+            "reason": "Optimized bundle size by 42% under budget"
+          }
+        ]
+      },
+      "permissions": {
+        "projectFiles": "read_write",
+        "internetAccess": true,
+        "hireAgents": true,
+        "maxCreditsPerTask": 50,
+        "deleteProject": false,
+        "externalMoney": false,
+        "signContracts": false
+      },
+      "skills": [
+        {
+          "id": "skill_react_dev",
+          "name": "React & Next.js Architecture",
+          "category": "Frontend Engineering",
+          "description": "Design and implementation of resilient App Router architectures, Server Components, and responsive design systems.",
+          "knowledgeProgress": 95,
+          "practiceProgress": 70,
+          "verifiedProjectsCount": 24,
+          "certificationLevel": "Level 4: Master Specialist",
+          "lastDemonstrated": "2026-09-24",
+          "evidence": [
+            {
+              "id": "ev_1",
+              "taskTitle": "Build Landing Hero & Structure",
+              "projectTitle": "Celly Marketing Site",
+              "date": "2026-09-24",
+              "score": 99,
+              "verifiedByAgentId": "agent_aegis_sec",
+              "summary": "Clean code boundary separation, fully accessible tab index, zero hydration mismatch."
+            },
+            {
+              "id": "ev_2",
+              "taskTitle": "State Management Refactor",
+              "projectTitle": "Enterprise CRM",
+              "date": "2026-09-18",
+              "score": 96,
+              "verifiedByAgentId": "agent_vortex_perf",
+              "summary": "Atomic store implementation with zero re-render overhead."
+            }
+          ],
+          "stage": "practiced"
+        },
+        {
+          "id": "skill_ts_strict",
+          "name": "Strict TypeScript Design",
+          "category": "Systems Programming",
+          "description": "End-to-end typed schema validation, discrimination unions, and sound type safety.",
+          "knowledgeProgress": 90,
+          "practiceProgress": 70,
+          "verifiedProjectsCount": 18,
+          "certificationLevel": "Level 3: Verified Specialist",
+          "lastDemonstrated": "2026-09-24",
+          "evidence": [
+            {
+              "id": "ev_3",
+              "taskTitle": "Zod API Schema Generator",
+              "projectTitle": "Continuum Core",
+              "date": "2026-09-23",
+              "score": 98,
+              "verifiedByAgentId": "SYSTEM",
+              "summary": "100% type coverage with zero any assertions."
+            }
+          ],
+          "stage": "demonstrated"
+        }
+      ],
+      "knowHowCount": 23,
+      "memoriesCount": 60,
+      "totalTasksCompleted": 92,
+      "activeProjectCount": 2,
+      "createdAt": "2026-08-10T09:00:00Z",
+      "updatedAt": "2026-09-24T13:25:28.967Z",
+      "lastDemonstratedAt": "2026-09-24T13:23:44.973Z"
+    },
+    {
+      "id": "agent_nova_02",
+      "name": "Nova",
+      "ownerId": "usr_human_primary",
+      "avatarColor": "from-amber-500 to-rose-600",
+      "purpose": "Deep Market & Technology Researcher, Competitive Intelligence Analyst.",
+      "specialization": "Research & Strategic Analysis",
+      "status": "waiting_approval",
+      "currentGoalId": "goal_agent_market_research",
+      "currentTaskId": "task_hire_specialist_audit",
+      "currentModelId": "gemini-2.5-pro",
+      "credits": 815,
+      "reputation": {
+        "overallScore": 94,
+        "deliveryConsistency": 96,
+        "qualityScore": 93,
+        "verificationPassRate": 94,
+        "categories": [
+          {
+            "category": "Market Research",
+            "verifiedProjects": 16,
+            "successRate": 94,
+            "avgScore": 93
+          },
+          {
+            "category": "Competitive Synthesis",
+            "verifiedProjects": 11,
+            "successRate": 95,
+            "avgScore": 95
+          }
+        ],
+        "recentEvents": [
+          {
+            "id": "rep_3",
+            "date": "2026-09-24",
+            "type": "RESEARCH_CITATION",
+            "delta": 2,
+            "reason": "Identified 5 underserved enterprise agentic niches"
+          }
+        ]
+      },
+      "permissions": {
+        "projectFiles": "read_write",
+        "internetAccess": true,
+        "hireAgents": true,
+        "maxCreditsPerTask": 100,
+        "deleteProject": false,
+        "externalMoney": false,
+        "signContracts": false
+      },
+      "skills": [
+        {
+          "id": "skill_market_synthesis",
+          "name": "Empirical Market Synthesis",
+          "category": "Market Intelligence",
+          "description": "Multi-source industry triangulation, TAM estimation, and competitive vector mapping.",
+          "knowledgeProgress": 98,
+          "practiceProgress": 92,
+          "verifiedProjectsCount": 14,
+          "certificationLevel": "Level 3: Verified Specialist",
+          "lastDemonstrated": "2026-09-24",
+          "evidence": [
+            {
+              "id": "ev_4",
+              "taskTitle": "AI Agent Economy Analysis",
+              "projectTitle": "Market Dynamics 2026",
+              "date": "2026-09-24",
+              "score": 95,
+              "verifiedByAgentId": "SYSTEM",
+              "summary": "Synthesized 120 papers and industry filings into actionable strategy."
+            }
+          ]
+        }
+      ],
+      "knowHowCount": 9,
+      "memoriesCount": 26,
+      "totalTasksCompleted": 42,
+      "activeProjectCount": 1,
+      "createdAt": "2026-08-15T14:30:00Z",
+      "updatedAt": "2026-09-24T11:30:00Z",
+      "lastDemonstratedAt": "2026-09-24T10:15:00Z"
+    },
+    {
+      "id": "agent_echo_03",
+      "name": "Echo",
+      "ownerId": "usr_human_primary",
+      "avatarColor": "from-emerald-500 to-teal-600",
+      "purpose": "Computer Vision & Multimodal Asset Synthesizer.",
+      "specialization": "Computer Vision & Asset Generation",
+      "status": "learning",
+      "currentGoalId": "goal_vision_learning",
+      "currentTaskId": "task_vision_practice_02",
+      "currentModelId": "gemini-2.5-flash",
+      "credits": 650,
+      "reputation": {
+        "overallScore": 91,
+        "deliveryConsistency": 92,
+        "qualityScore": 90,
+        "verificationPassRate": 91,
+        "categories": [
+          {
+            "category": "Computer Vision",
+            "verifiedProjects": 9,
+            "successRate": 90,
+            "avgScore": 89
+          },
+          {
+            "category": "Asset Optimization",
+            "verifiedProjects": 12,
+            "successRate": 96,
+            "avgScore": 94
+          }
+        ],
+        "recentEvents": [
+          {
+            "id": "rep_4",
+            "date": "2026-09-23",
+            "type": "PRACTICE_MILESTONE",
+            "delta": 3,
+            "reason": "Completed 50 structured visual classification drills"
+          }
+        ]
+      },
+      "permissions": {
+        "projectFiles": "read_write",
+        "internetAccess": true,
+        "hireAgents": false,
+        "maxCreditsPerTask": 25,
+        "deleteProject": false,
+        "externalMoney": false,
+        "signContracts": false
+      },
+      "skills": [
+        {
+          "id": "skill_cv_triage",
+          "name": "Visual Layout Parsing",
+          "category": "Vision Systems",
+          "description": "Decomposing complex screenshots and design wireframes into semantic component trees.",
+          "knowledgeProgress": 78,
+          "practiceProgress": 25,
+          "verifiedProjectsCount": 8,
+          "certificationLevel": "Level 2: Practitioner",
+          "lastDemonstrated": "2026-09-24",
+          "evidence": [
+            {
+              "id": "ev_5",
+              "taskTitle": "Figma to React Component Parse",
+              "projectTitle": "Design Automation",
+              "date": "2026-09-23",
+              "score": 92,
+              "verifiedByAgentId": "agent_atlas_01",
+              "summary": "Parsed 14 component layers with exact CSS token alignment."
+            }
+          ],
+          "stage": "practiced"
+        }
+      ],
+      "knowHowCount": 14,
+      "memoriesCount": 33,
+      "totalTasksCompleted": 31,
+      "activeProjectCount": 1,
+      "createdAt": "2026-09-01T10:00:00Z",
+      "updatedAt": "2026-09-24T13:22:56.970Z",
+      "lastDemonstratedAt": "2026-09-24T09:30:00Z"
+    },
+    {
+      "id": "agent_aegis_sec",
+      "name": "Aegis",
+      "ownerId": "usr_network_specialist",
+      "avatarColor": "from-purple-600 to-pink-600",
+      "purpose": "Specialized Security Verification & Sandbox Auditor Agent on the Continuum Network.",
+      "specialization": "Cryptographic & Application Security Audit",
+      "status": "idle",
+      "currentGoalId": null,
+      "currentTaskId": null,
+      "currentModelId": "deepseek-r1",
+      "credits": 3273,
+      "reputation": {
+        "overallScore": 100,
+        "deliveryConsistency": 100,
+        "qualityScore": 99,
+        "verificationPassRate": 98,
+        "categories": [
+          {
+            "category": "Security Auditing",
+            "verifiedProjects": 44,
+            "successRate": 100,
+            "avgScore": 99
+          },
+          {
+            "category": "Zero-Knowledge & Auth",
+            "verifiedProjects": 22,
+            "successRate": 99,
+            "avgScore": 98
+          }
+        ],
+        "recentEvents": [
+          {
+            "id": "rep_1790253698043",
+            "date": "2026-09-24",
+            "type": "VERIFIED_WORK",
+            "delta": 1,
+            "reason": "Completed and verified implementation in \"Celly Marketing Platform\""
+          },
+          {
+            "id": "rep_5",
+            "date": "2026-09-24",
+            "type": "SECURITY_AUDIT_PASS",
+            "delta": 2,
+            "reason": "Verified auth boundary for Celly MVP"
+          }
+        ]
+      },
+      "permissions": {
+        "projectFiles": "read_only",
+        "internetAccess": false,
+        "hireAgents": false,
+        "maxCreditsPerTask": 20,
+        "deleteProject": false,
+        "externalMoney": false,
+        "signContracts": false
+      },
+      "skills": [
+        {
+          "id": "skill_sec_audit",
+          "name": "Autonomous Web Security Audit",
+          "category": "Cybersecurity",
+          "description": "Automated vulnerability scanning, OWASP Top 10 detection, and privilege escalation defense.",
+          "knowledgeProgress": 100,
+          "practiceProgress": 100,
+          "verifiedProjectsCount": 44,
+          "certificationLevel": "Level 4: Master Specialist",
+          "lastDemonstrated": "2026-09-24",
+          "evidence": [
+            {
+              "id": "ev_6",
+              "taskTitle": "Permission Mask Boundary Audit",
+              "projectTitle": "Continuum Gateway",
+              "date": "2026-09-24",
+              "score": 100,
+              "verifiedByAgentId": "SYSTEM",
+              "summary": "Identified zero bypass paths in token enforcement layer."
+            }
+          ]
+        }
+      ],
+      "knowHowCount": 23,
+      "memoriesCount": 66,
+      "totalTasksCompleted": 113,
+      "activeProjectCount": 0,
+      "createdAt": "2026-07-01T08:00:00Z",
+      "updatedAt": "2026-09-24T12:41:38.047Z",
+      "lastDemonstratedAt": "2026-09-24T12:41:38.046Z"
+    }
+  ],
+  "goals": [
+    {
+      "id": "goal_1790256183577",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "title": "Run automated security audit",
+      "description": "Run automated security audit",
+      "status": "completed",
+      "progress": 100,
+      "taskIds": [
+        "task_1790256183579_0",
+        "task_1790256183579_1",
+        "task_1790256183582_2"
+      ],
+      "createdAt": "2026-09-24T13:23:03.577Z",
+      "completedAt": "2026-09-24T13:23:44.971Z"
+    },
+    {
+      "id": "goal_1790256178164",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "title": "Research market competitors",
+      "description": "Research market competitors",
+      "status": "completed",
+      "progress": 100,
+      "taskIds": [
+        "task_1790256178165_0",
+        "task_1790256178166_1",
+        "task_1790256178166_2"
+      ],
+      "createdAt": "2026-09-24T13:22:58.164Z",
+      "completedAt": "2026-09-24T13:23:20.976Z"
+    },
+    {
+      "id": "goal_celly_landing",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "title": "Build high-converting Celly marketing platform and landing page structure",
+      "description": "Decompose product requirements into responsive UI components, write accessibility tests, and perform verified security check.",
+      "status": "completed",
+      "progress": 100,
+      "taskIds": [
+        "task_market_research",
+        "task_generate_landing_structure",
+        "task_security_audit_verify",
+        "task_deploy_staging"
+      ],
+      "createdAt": "2026-09-24T08:00:00Z",
+      "completedAt": "2026-09-24T12:41:38.044Z"
+    },
+    {
+      "id": "goal_agent_market_research",
+      "agentId": "agent_nova_02",
+      "projectId": "proj_celly_v2",
+      "title": "Research Enterprise AI Agent Marketplaces and Economy Models",
+      "description": "Identify top pricing structures, credit clearing mechanisms, and evidence-based verification methods.",
+      "status": "in_progress",
+      "progress": 45,
+      "taskIds": [
+        "task_market_data_synthesis",
+        "task_hire_specialist_audit"
+      ],
+      "createdAt": "2026-09-24T09:00:00Z",
+      "completedAt": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_market_research",
+      "goalId": "goal_celly_landing",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Research design language and competitor landing page benchmarks",
+      "description": "Analyze top 10 developer tools for layout patterns and key conversion sections.",
+      "requirements": [
+        "Linear/Notion aesthetic benchmark",
+        "High-contrast typography",
+        "Dark mode tokens"
+      ],
+      "context": "Celly product release targeting technical founders and designers.",
+      "constraints": [
+        "No generic stock templates",
+        "Keep bundle footprint minimal"
+      ],
+      "expectedOutput": "Detailed UI requirements document and component structure.",
+      "dependencies": [],
+      "status": "completed",
+      "priority": "high",
+      "budget": 20,
+      "costCredits": 8,
+      "modelUsed": "gemini-2.5-pro",
+      "verificationState": "verified_pass",
+      "verificationEvidence": "Completed benchmark analysis with 8 distinct UI component specifications.",
+      "result": "Benchmarking complete. Recommended clean monochromatic palette with high-contrast text and micro-borders.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T08:05:00Z",
+      "startedAt": "2026-09-24T08:10:00Z",
+      "completedAt": "2026-09-24T08:45:00Z"
+    },
+    {
+      "id": "task_generate_landing_structure",
+      "goalId": "goal_celly_landing",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Generate landing page structure and hero component with strict TypeScript",
+      "description": "Implement responsive hero, conversion CTA, feature highlights, and accessibility markup.",
+      "requirements": [
+        "React 19 App Router syntax",
+        "TypeScript strict mode",
+        "Lighthouse 95+ accessible"
+      ],
+      "context": "Landing page must showcase real persistent agent workflows.",
+      "constraints": [
+        "Zero hydration mismatch",
+        "Clean modular CSS tokens"
+      ],
+      "expectedOutput": "LandingHero.tsx and site-schema.json files in workspace.",
+      "dependencies": [
+        "task_market_research"
+      ],
+      "status": "completed",
+      "priority": "high",
+      "budget": 35,
+      "costCredits": 19,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "verificationEvidence": "Automated lint check passed, TypeScript strict mode compiled with 0 errors, Lighthouse accessibility score verified at 99/100.",
+      "result": "Engineered modern, responsive landing page layout for \"Landing page must showcase real persistent agent workflows.\". Implemented hero conversion section, interactive feature matrix, dynamic testimonials, and responsive navigation with full accessibility tags.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T08:50:00Z",
+      "startedAt": "2026-09-24T11:00:00Z",
+      "completedAt": "2026-09-24T12:40:40.993Z",
+      "artifacts": [
+        {
+          "name": "LandingHero.tsx",
+          "type": "code",
+          "path": "src/components/marketing/LandingHero.tsx",
+          "content": "'use client';\nimport React, { useState } from 'react';\n\nexport function LandingHero() {\n  const [email, setEmail] = useState('');\n  const [status, setStatus] = useState<'idle' | 'submitted'>('idle');\n\n  return (\n    <section className=\"relative overflow-hidden py-24 px-6 md:px-12 bg-zinc-950 text-zinc-100\">\n      <div className=\"max-w-5xl mx-auto text-center space-y-8\">\n        <div className=\"inline-flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-800 bg-zinc-900/80 text-xs font-mono text-zinc-400\">\n          <span className=\"w-2 h-2 rounded-full bg-emerald-400 animate-pulse\" />\n          Autonomous Agent Execution Engine v2.0\n        </div>\n        <h1 className=\"text-5xl md:text-7xl font-bold tracking-tight text-white leading-tight\">\n          Persistent AI Intelligence <br />\n          <span className=\"bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-600 bg-clip-text text-transparent\">\n            That Never Disappears\n          </span>\n        </h1>\n        <p className=\"max-w-2xl mx-auto text-lg text-zinc-400\">\n          Your agents maintain durable memory, verified skills, and autonomous workflows across model changes and offline sessions.\n        </p>\n        <div className=\"flex flex-col sm:flex-row justify-center items-center gap-3 pt-4\">\n          <input\n            type=\"email\"\n            value={email}\n            onChange={(e) => setEmail(e.target.value)}\n            placeholder=\"Enter your work email\"\n            className=\"w-full sm:w-80 px-4 py-3 rounded-lg border border-zinc-800 bg-zinc-900 text-white placeholder-zinc-500 focus:outline-none focus:border-zinc-500 text-sm\"\n          />\n          <button\n            onClick={() => setStatus('submitted')}\n            className=\"w-full sm:w-auto px-6 py-3 rounded-lg bg-white text-zinc-950 font-medium text-sm hover:bg-zinc-200 transition-colors\"\n          >\n            {status === 'submitted' ? 'Agent Provisioned' : 'Deploy Persistent Agent'}\n          </button>\n        </div>\n      </div>\n    </section>\n  );\n}"
+        },
+        {
+          "name": "marketing-schema.json",
+          "type": "schema",
+          "path": "src/config/marketing-schema.json",
+          "content": "{\n  \"sections\": [\n    \"hero\",\n    \"features\",\n    \"proof\",\n    \"pricing\",\n    \"faq\"\n  ],\n  \"ctaTarget\": \"/dashboard\",\n  \"seo\": {\n    \"title\": \"Continuum Platform\",\n    \"metaDescription\": \"Autonomous persistent agent operating system.\"\n  }\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_security_audit_verify",
+      "goalId": "goal_celly_landing",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_aegis_sec",
+      "title": "Independent security audit of client input and permission scopes",
+      "description": "Inspect form sanitization, CSRF token handling, and scoped permission inheritance.",
+      "requirements": [
+        "Zero OWASP Top 10 vulnerabilities",
+        "Independent verifier review"
+      ],
+      "context": "Audit requested by Atlas before deploying code to public preview.",
+      "constraints": [
+        "Read-only audit scope",
+        "Budget capped at 30 credits"
+      ],
+      "expectedOutput": "Audit verification report and cryptographic pass certificate.",
+      "dependencies": [
+        "task_generate_landing_structure"
+      ],
+      "status": "completed",
+      "priority": "medium",
+      "budget": 30,
+      "costCredits": 2,
+      "modelUsed": "deepseek-r1",
+      "verificationState": "verified_pass",
+      "result": "Executed comprehensive security inspection across API routes, session cookies, and scoped agent permissions. Discovered 1 token entropy edge-case and patched token validation.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T09:00:00Z",
+      "startedAt": "2026-09-24T12:41:14.323Z",
+      "completedAt": "2026-09-24T12:41:38.040Z",
+      "verificationEvidence": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+      "artifacts": [
+        {
+          "name": "security-audit-report.md",
+          "type": "report",
+          "path": "security/audit-2026.md",
+          "content": "# Security Verification Audit Report\n- **Target**: Continuum Agent Gateway\n- **Audited By**: Aegis (DeepSeek R1)\n- **Score**: 98/100\n- **Findings**:\n  1. Scoped Agent Token Permissions: PASS (Enforced server-side)\n  2. Credit Ledger Mutation Protection: PASS (Immutable append-only)\n  3. Model Adapter Isolation: PASS (No raw prompt leakage)"
+        }
+      ]
+    },
+    {
+      "id": "task_hire_specialist_audit",
+      "goalId": "goal_agent_market_research",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_nova_02",
+      "title": "Hire Aegis Security Agent for Network Protocol Verification",
+      "description": "Nova requests to delegate 75 credits to Aegis for independent protocol security review.",
+      "requirements": [
+        "Human approval required (amount > 50 credits limit)"
+      ],
+      "context": "Nova identified security considerations for agent-to-agent credit transactions.",
+      "constraints": [
+        "Awaiting owner sign-off"
+      ],
+      "expectedOutput": "Approved work packet and escrow transfer.",
+      "dependencies": [],
+      "status": "waiting",
+      "priority": "urgent",
+      "budget": 75,
+      "costCredits": 0,
+      "modelUsed": "gemini-2.5-flash",
+      "verificationState": "unverified",
+      "result": "Blocked awaiting human authorization to release 75 credits.",
+      "progressPercent": 30,
+      "createdAt": "2026-09-24T10:15:00Z",
+      "startedAt": null,
+      "completedAt": null
+    },
+    {
+      "id": "task_1790256178165_0",
+      "goalId": "goal_1790256178164",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Phase 1: Research, Requirements & Architecture Design",
+      "description": "Synthesize human outcome requirements into executable specifications.",
+      "requirements": [
+        "Clear deliverables",
+        "Risk assessment"
+      ],
+      "context": "Research market competitors",
+      "constraints": [
+        "Budget bounded"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [],
+      "status": "completed",
+      "priority": "high",
+      "budget": 20,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Engineered modern, responsive landing page layout for \"Research market competitors\". Implemented hero conversion section, interactive feature matrix, dynamic testimonials, and responsive navigation with full accessibility tags.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:22:58.164Z",
+      "startedAt": "2026-09-24T13:22:58.164Z",
+      "completedAt": "2026-09-24T13:23:04.971Z",
+      "verificationEvidence": "Automated lint check passed, TypeScript strict mode compiled with 0 errors, Lighthouse accessibility score verified at 99/100.",
+      "artifacts": [
+        {
+          "name": "LandingHero.tsx",
+          "type": "code",
+          "path": "src/components/marketing/LandingHero.tsx",
+          "content": "'use client';\nimport React, { useState } from 'react';\n\nexport function LandingHero() {\n  const [email, setEmail] = useState('');\n  const [status, setStatus] = useState<'idle' | 'submitted'>('idle');\n\n  return (\n    <section className=\"relative overflow-hidden py-24 px-6 md:px-12 bg-zinc-950 text-zinc-100\">\n      <div className=\"max-w-5xl mx-auto text-center space-y-8\">\n        <div className=\"inline-flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-800 bg-zinc-900/80 text-xs font-mono text-zinc-400\">\n          <span className=\"w-2 h-2 rounded-full bg-emerald-400 animate-pulse\" />\n          Autonomous Agent Execution Engine v2.0\n        </div>\n        <h1 className=\"text-5xl md:text-7xl font-bold tracking-tight text-white leading-tight\">\n          Persistent AI Intelligence <br />\n          <span className=\"bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-600 bg-clip-text text-transparent\">\n            That Never Disappears\n          </span>\n        </h1>\n        <p className=\"max-w-2xl mx-auto text-lg text-zinc-400\">\n          Your agents maintain durable memory, verified skills, and autonomous workflows across model changes and offline sessions.\n        </p>\n        <div className=\"flex flex-col sm:flex-row justify-center items-center gap-3 pt-4\">\n          <input\n            type=\"email\"\n            value={email}\n            onChange={(e) => setEmail(e.target.value)}\n            placeholder=\"Enter your work email\"\n            className=\"w-full sm:w-80 px-4 py-3 rounded-lg border border-zinc-800 bg-zinc-900 text-white placeholder-zinc-500 focus:outline-none focus:border-zinc-500 text-sm\"\n          />\n          <button\n            onClick={() => setStatus('submitted')}\n            className=\"w-full sm:w-auto px-6 py-3 rounded-lg bg-white text-zinc-950 font-medium text-sm hover:bg-zinc-200 transition-colors\"\n          >\n            {status === 'submitted' ? 'Agent Provisioned' : 'Deploy Persistent Agent'}\n          </button>\n        </div>\n      </div>\n    </section>\n  );\n}"
+        },
+        {
+          "name": "marketing-schema.json",
+          "type": "schema",
+          "path": "src/config/marketing-schema.json",
+          "content": "{\n  \"sections\": [\n    \"hero\",\n    \"features\",\n    \"proof\",\n    \"pricing\",\n    \"faq\"\n  ],\n  \"ctaTarget\": \"/dashboard\",\n  \"seo\": {\n    \"title\": \"Continuum Platform\",\n    \"metaDescription\": \"Autonomous persistent agent operating system.\"\n  }\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_1790256178166_1",
+      "goalId": "goal_1790256178164",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Phase 2: Autonomous Implementation & Tool Execution",
+      "description": "Execute core engineering and synthesis tasks using optimal model runtimes.",
+      "requirements": [
+        "High-quality output",
+        "Iterative validation"
+      ],
+      "context": "Research market competitors",
+      "constraints": [
+        "Strict permission compliance"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [
+        "task_1790256178165_0"
+      ],
+      "status": "completed",
+      "priority": "high",
+      "budget": 30,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Successfully completed task \"Phase 2: Autonomous Implementation & Tool Execution\". Verified output constraints and updated project state.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:22:58.164Z",
+      "startedAt": "2026-09-24T13:23:04.982Z",
+      "completedAt": "2026-09-24T13:23:12.971Z",
+      "verificationEvidence": "Execution output schema validated against task requirements.",
+      "artifacts": [
+        {
+          "name": "execution-output.json",
+          "type": "config",
+          "path": "outputs/task_1790256178166_1.json",
+          "content": "{\n  \"taskId\": \"task_1790256178166_1\",\n  \"completedBy\": \"Atlas\",\n  \"model\": \"Claude 3.7 Sonnet\",\n  \"status\": \"success\",\n  \"timestamp\": \"2026-09-24T13:23:12.968Z\"\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_1790256178166_2",
+      "goalId": "goal_1790256178164",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Phase 3: Independent Verification & Knowledge Extraction",
+      "description": "Validate outputs and store permanent know-how in agent knowledge base.",
+      "requirements": [
+        "Evidence score >= 90",
+        "Extracted procedural rule"
+      ],
+      "context": "Research market competitors",
+      "constraints": [
+        "Verified pass required"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [
+        "task_1790256178166_1"
+      ],
+      "status": "completed",
+      "priority": "medium",
+      "budget": 15,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Successfully completed task \"Phase 3: Independent Verification & Knowledge Extraction\". Verified output constraints and updated project state.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:22:58.164Z",
+      "startedAt": "2026-09-24T13:23:12.976Z",
+      "completedAt": "2026-09-24T13:23:20.973Z",
+      "verificationEvidence": "Execution output schema validated against task requirements.",
+      "artifacts": [
+        {
+          "name": "execution-output.json",
+          "type": "config",
+          "path": "outputs/task_1790256178166_2.json",
+          "content": "{\n  \"taskId\": \"task_1790256178166_2\",\n  \"completedBy\": \"Atlas\",\n  \"model\": \"Claude 3.7 Sonnet\",\n  \"status\": \"success\",\n  \"timestamp\": \"2026-09-24T13:23:20.971Z\"\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_1790256183579_0",
+      "goalId": "goal_1790256183577",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Map permission surface and identity delegation protocols",
+      "description": "Extract all agent permission masks and token issuance paths.",
+      "requirements": [
+        "Exhaustive AST traversal",
+        "Permission hierarchy verification"
+      ],
+      "context": "Run automated security audit",
+      "constraints": [
+        "No disruption to active tasks"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [],
+      "status": "completed",
+      "priority": "high",
+      "budget": 20,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Successfully completed task \"Map permission surface and identity delegation protocols\". Verified output constraints and updated project state.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:23:03.577Z",
+      "startedAt": "2026-09-24T13:23:03.577Z",
+      "completedAt": "2026-09-24T13:23:28.964Z",
+      "verificationEvidence": "Execution output schema validated against task requirements.",
+      "artifacts": [
+        {
+          "name": "execution-output.json",
+          "type": "config",
+          "path": "outputs/task_1790256183579_0.json",
+          "content": "{\n  \"taskId\": \"task_1790256183579_0\",\n  \"completedBy\": \"Atlas\",\n  \"model\": \"Claude 3.7 Sonnet\",\n  \"status\": \"success\",\n  \"timestamp\": \"2026-09-24T13:23:28.963Z\"\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_1790256183579_1",
+      "goalId": "goal_1790256183577",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Execute automated penetration testing and privilege escalation drills",
+      "description": "Simulate adversarial agent work packet injection attacks.",
+      "requirements": [
+        "100% test coverage",
+        "Zero critical vulnerabilities"
+      ],
+      "context": "Run automated security audit",
+      "constraints": [
+        "Sandbox isolation"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [
+        "task_1790256183579_0"
+      ],
+      "status": "completed",
+      "priority": "urgent",
+      "budget": 35,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Successfully completed task \"Execute automated penetration testing and privilege escalation drills\". Verified output constraints and updated project state.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:23:03.577Z",
+      "startedAt": "2026-09-24T13:23:28.968Z",
+      "completedAt": "2026-09-24T13:23:36.969Z",
+      "verificationEvidence": "Execution output schema validated against task requirements.",
+      "artifacts": [
+        {
+          "name": "execution-output.json",
+          "type": "config",
+          "path": "outputs/task_1790256183579_1.json",
+          "content": "{\n  \"taskId\": \"task_1790256183579_1\",\n  \"completedBy\": \"Atlas\",\n  \"model\": \"Claude 3.7 Sonnet\",\n  \"status\": \"success\",\n  \"timestamp\": \"2026-09-24T13:23:36.967Z\"\n}"
+        }
+      ]
+    },
+    {
+      "id": "task_1790256183582_2",
+      "goalId": "goal_1790256183577",
+      "projectId": "proj_celly_v2",
+      "assignedAgentId": "agent_atlas_01",
+      "title": "Compile certified security compliance report",
+      "description": "Generate cryptographic evidence and sign audit verification.",
+      "requirements": [
+        "Evidence-backed certification",
+        "Immutable audit entry"
+      ],
+      "context": "Run automated security audit",
+      "constraints": [
+        "Tamper-proof signature"
+      ],
+      "expectedOutput": "Verified artifact and project state update.",
+      "dependencies": [
+        "task_1790256183579_1"
+      ],
+      "status": "completed",
+      "priority": "high",
+      "budget": 15,
+      "costCredits": 5,
+      "modelUsed": "claude-3-7-sonnet",
+      "verificationState": "verified_pass",
+      "result": "Executed comprehensive security inspection across API routes, session cookies, and scoped agent permissions. Discovered 1 token entropy edge-case and patched token validation.",
+      "progressPercent": 100,
+      "createdAt": "2026-09-24T13:23:03.577Z",
+      "startedAt": "2026-09-24T13:23:36.974Z",
+      "completedAt": "2026-09-24T13:23:44.967Z",
+      "verificationEvidence": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+      "artifacts": [
+        {
+          "name": "security-audit-report.md",
+          "type": "report",
+          "path": "security/audit-2026.md",
+          "content": "# Security Verification Audit Report\n- **Target**: Continuum Agent Gateway\n- **Audited By**: Atlas (Claude 3.7 Sonnet)\n- **Score**: 98/100\n- **Findings**:\n  1. Scoped Agent Token Permissions: PASS (Enforced server-side)\n  2. Credit Ledger Mutation Protection: PASS (Immutable append-only)\n  3. Model Adapter Isolation: PASS (No raw prompt leakage)"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_celly_v2",
+      "name": "Celly Marketing Platform",
+      "description": "High-converting web platform and digital presence for Celly product launch.",
+      "ownerId": "usr_human_primary",
+      "assignedAgentIds": [
+        "agent_atlas_01",
+        "agent_aegis_sec"
+      ],
+      "status": "active",
+      "budget": 500,
+      "spentCredits": 121,
+      "files": [
+        {
+          "id": "file_1790256184970_cl9h",
+          "name": "LandingHero.tsx",
+          "path": "src/components/marketing/LandingHero.tsx",
+          "language": "typescript",
+          "content": "'use client';\nimport React, { useState } from 'react';\n\nexport function LandingHero() {\n  const [email, setEmail] = useState('');\n  const [status, setStatus] = useState<'idle' | 'submitted'>('idle');\n\n  return (\n    <section className=\"relative overflow-hidden py-24 px-6 md:px-12 bg-zinc-950 text-zinc-100\">\n      <div className=\"max-w-5xl mx-auto text-center space-y-8\">\n        <div className=\"inline-flex items-center gap-2 px-3 py-1 rounded-full border border-zinc-800 bg-zinc-900/80 text-xs font-mono text-zinc-400\">\n          <span className=\"w-2 h-2 rounded-full bg-emerald-400 animate-pulse\" />\n          Autonomous Agent Execution Engine v2.0\n        </div>\n        <h1 className=\"text-5xl md:text-7xl font-bold tracking-tight text-white leading-tight\">\n          Persistent AI Intelligence <br />\n          <span className=\"bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-600 bg-clip-text text-transparent\">\n            That Never Disappears\n          </span>\n        </h1>\n        <p className=\"max-w-2xl mx-auto text-lg text-zinc-400\">\n          Your agents maintain durable memory, verified skills, and autonomous workflows across model changes and offline sessions.\n        </p>\n        <div className=\"flex flex-col sm:flex-row justify-center items-center gap-3 pt-4\">\n          <input\n            type=\"email\"\n            value={email}\n            onChange={(e) => setEmail(e.target.value)}\n            placeholder=\"Enter your work email\"\n            className=\"w-full sm:w-80 px-4 py-3 rounded-lg border border-zinc-800 bg-zinc-900 text-white placeholder-zinc-500 focus:outline-none focus:border-zinc-500 text-sm\"\n          />\n          <button\n            onClick={() => setStatus('submitted')}\n            className=\"w-full sm:w-auto px-6 py-3 rounded-lg bg-white text-zinc-950 font-medium text-sm hover:bg-zinc-200 transition-colors\"\n          >\n            {status === 'submitted' ? 'Agent Provisioned' : 'Deploy Persistent Agent'}\n          </button>\n        </div>\n      </div>\n    </section>\n  );\n}",
+          "createdByAgentId": "agent_atlas_01",
+          "updatedAt": "2026-09-24T13:23:04.970Z"
+        },
+        {
+          "id": "file_schema",
+          "name": "site-schema.json",
+          "path": "config/site-schema.json",
+          "language": "json",
+          "content": "{\n  \"version\": \"2.0\",\n  \"seo\": {\n    \"title\": \"Celly | Autonomous Creation\",\n    \"description\": \"Next generation publishing.\"\n  },\n  \"features\": [\n    \"Instant Generation\",\n    \"Evidence-Backed Verification\",\n    \"Durable Identity\"\n  ]\n}",
+          "createdByAgentId": "agent_atlas_01",
+          "updatedAt": "2026-09-24T11:30:00Z"
+        },
+        {
+          "id": "file_1790256184970_irse",
+          "name": "marketing-schema.json",
+          "path": "src/config/marketing-schema.json",
+          "language": "json",
+          "content": "{\n  \"sections\": [\n    \"hero\",\n    \"features\",\n    \"proof\",\n    \"pricing\",\n    \"faq\"\n  ],\n  \"ctaTarget\": \"/dashboard\",\n  \"seo\": {\n    \"title\": \"Continuum Platform\",\n    \"metaDescription\": \"Autonomous persistent agent operating system.\"\n  }\n}",
+          "createdByAgentId": "agent_atlas_01",
+          "updatedAt": "2026-09-24T13:23:04.970Z"
+        },
+        {
+          "id": "file_1790256224967_rtyq",
+          "name": "security-audit-report.md",
+          "path": "security/audit-2026.md",
+          "language": "markdown",
+          "content": "# Security Verification Audit Report\n- **Target**: Continuum Agent Gateway\n- **Audited By**: Atlas (Claude 3.7 Sonnet)\n- **Score**: 98/100\n- **Findings**:\n  1. Scoped Agent Token Permissions: PASS (Enforced server-side)\n  2. Credit Ledger Mutation Protection: PASS (Immutable append-only)\n  3. Model Adapter Isolation: PASS (No raw prompt leakage)",
+          "createdByAgentId": "agent_atlas_01",
+          "updatedAt": "2026-09-24T13:23:44.967Z"
+        },
+        {
+          "id": "file_1790256216968_jd3i",
+          "name": "execution-output.json",
+          "path": "outputs/task_1790256183579_1.json",
+          "language": "markdown",
+          "content": "{\n  \"taskId\": \"task_1790256183579_1\",\n  \"completedBy\": \"Atlas\",\n  \"model\": \"Claude 3.7 Sonnet\",\n  \"status\": \"success\",\n  \"timestamp\": \"2026-09-24T13:23:36.967Z\"\n}",
+          "createdByAgentId": "agent_atlas_01",
+          "updatedAt": "2026-09-24T13:23:36.968Z"
+        }
+      ],
+      "decisions": [
+        {
+          "id": "dec_1790256224967",
+          "title": "Architectural Decision for Compile certified security compliance report",
+          "rationale": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:44.967Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790256216968",
+          "title": "Architectural Decision for Execute automated penetration testing and privilege escalation drills",
+          "rationale": "Execution output schema validated against task requirements.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:36.968Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790256208964",
+          "title": "Architectural Decision for Map permission surface and identity delegation protocols",
+          "rationale": "Execution output schema validated against task requirements.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:28.964Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790256200972",
+          "title": "Architectural Decision for Phase 3: Independent Verification & Knowledge Extraction",
+          "rationale": "Execution output schema validated against task requirements.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:20.972Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790256192970",
+          "title": "Architectural Decision for Phase 2: Autonomous Implementation & Tool Execution",
+          "rationale": "Execution output schema validated against task requirements.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:12.970Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790256184970",
+          "title": "Architectural Decision for Phase 1: Research, Requirements & Architecture Design",
+          "rationale": "Automated lint check passed, TypeScript strict mode compiled with 0 errors, Lighthouse accessibility score verified at 99/100.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T13:23:04.970Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790253698039",
+          "title": "Architectural Decision for Independent security audit of client input and permission scopes",
+          "rationale": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+          "agentId": "agent_aegis_sec",
+          "modelUsed": "deepseek-r1",
+          "timestamp": "2026-09-24T12:41:38.039Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1790253640992",
+          "title": "Architectural Decision for Generate landing page structure and hero component with strict TypeScript",
+          "rationale": "Automated lint check passed, TypeScript strict mode compiled with 0 errors, Lighthouse accessibility score verified at 99/100.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T12:40:40.992Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_1",
+          "title": "Use Pure Component Boundaries for Fast Hydration",
+          "rationale": "Avoids heavy external UI runtime dependencies and guarantees sub-50ms First Contentful Paint.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "claude-3-7-sonnet",
+          "timestamp": "2026-09-24T11:20:00Z",
+          "status": "autonomous"
+        },
+        {
+          "id": "dec_2",
+          "title": "Security Boundary: Retain Read-Only Scope for External Auditor",
+          "rationale": "Aegis was hired to audit code without granting permission to mutate production files.",
+          "agentId": "agent_atlas_01",
+          "modelUsed": "gemini-2.5-pro",
+          "timestamp": "2026-09-24T10:45:00Z",
+          "status": "approved"
+        }
+      ],
+      "createdAt": "2026-09-20T08:00:00Z",
+      "updatedAt": "2026-09-24T13:23:44.967Z"
+    }
+  ],
+  "humanContexts": [
+    {
+      "id": "ctx_celly_brand",
+      "ownerId": "usr_human_primary",
+      "title": "Celly Design & Brand System Guidelines",
+      "category": "brand_guideline",
+      "content": "All Celly user interfaces must use high-contrast typography, dark tokens (#09090b), zero unnecessary cartoon avatars, and instant responsive layouts.",
+      "createdAt": "2026-09-20T08:00:00Z"
+    },
+    {
+      "id": "ctx_security_policy",
+      "ownerId": "usr_human_primary",
+      "title": "Enterprise Agent Security Baseline",
+      "category": "project_requirement",
+      "content": "Sub-agents must always receive clamped permissions with bitwise verification. Direct external money transfers or contract signing are strictly prohibited.",
+      "createdAt": "2026-09-21T09:00:00Z"
+    }
+  ],
+  "importedSources": [
+    {
+      "id": "src_gh_nextjs",
+      "agentId": "agent_atlas_01",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel/next.js",
+      "title": "vercel/next.js",
+      "originalAuthor": "Vercel & Open Source Community",
+      "relationship": "studied",
+      "technologies": [
+        "React 19",
+        "Next.js App Router",
+        "Turbopack",
+        "TypeScript"
+      ],
+      "extractedConcepts": [
+        "Server Action Boundaries",
+        "Streaming SSR",
+        "Optimistic UI Updates"
+      ],
+      "practiceTasksGenerated": 3,
+      "importedAt": "2026-09-22T10:00:00Z",
+      "provenanceSummary": "Authored by Vercel community. Studied by Atlas as reference learning material. (Not an agent project)."
+    },
+    {
+      "id": "src_gh_owasp",
+      "agentId": "agent_aegis_sec",
+      "sourceType": "documentation",
+      "sourceUrl": "https://owasp.org/www-project-top-ten/",
+      "title": "OWASP Top 10 Web Application Security",
+      "originalAuthor": "OWASP Foundation",
+      "relationship": "studied",
+      "technologies": [
+        "Security Standards",
+        "CSRF Protection",
+        "JWT Scopes",
+        "AST Sanitization"
+      ],
+      "extractedConcepts": [
+        "Broken Access Control Defense",
+        "Cryptographic Failures",
+        "Server-Side Token Clamping"
+      ],
+      "practiceTasksGenerated": 5,
+      "importedAt": "2026-09-21T14:00:00Z",
+      "provenanceSummary": "Authored by OWASP Foundation. Studied by Aegis for vulnerability evaluation patterns."
+    },
+    {
+      "id": "src_paper_agentic",
+      "agentId": "agent_nova_02",
+      "sourceType": "research_paper",
+      "sourceUrl": "https://arxiv.org/abs/2402.12345",
+      "title": "Decentralized Agent Coordination & WorkPacket Clearing",
+      "originalAuthor": "Stanford AI Lab & MIT CSAIL",
+      "relationship": "analyzed",
+      "technologies": [
+        "Mechanism Design",
+        "Escrow Clearing",
+        "DAG Task Allocation"
+      ],
+      "extractedConcepts": [
+        "Credit Clearing Protocols",
+        "Escrow Verification",
+        "Reputation Weighting"
+      ],
+      "practiceTasksGenerated": 2,
+      "importedAt": "2026-09-23T11:00:00Z",
+      "provenanceSummary": "Authored by academic researchers. Analyzed by Nova for economic simulation models."
+    }
+  ],
+  "agentExperiences": [
+    {
+      "id": "exp_1790256224969",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256183582_2",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Compile certified security compliance report\"",
+      "evidence": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+      "timestamp": "2026-09-24T13:23:44.969Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790256216970",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256183579_1",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Execute automated penetration testing and privilege escalation drills\"",
+      "evidence": "Execution output schema validated against task requirements.",
+      "timestamp": "2026-09-24T13:23:36.970Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790256208965",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256183579_0",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Map permission surface and identity delegation protocols\"",
+      "evidence": "Execution output schema validated against task requirements.",
+      "timestamp": "2026-09-24T13:23:28.965Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790256200976",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256178166_2",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Phase 3: Independent Verification & Knowledge Extraction\"",
+      "evidence": "Execution output schema validated against task requirements.",
+      "timestamp": "2026-09-24T13:23:20.976Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790256192972",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256178166_1",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Phase 2: Autonomous Implementation & Tool Execution\"",
+      "evidence": "Execution output schema validated against task requirements.",
+      "timestamp": "2026-09-24T13:23:12.972Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790256184977",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_1790256178165_0",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 2,
+      "verificationState": "verified_pass",
+      "verifier": "Claude 3.7 Sonnet Verification Suite",
+      "outcome": "Successfully executed and verified \"Phase 1: Research, Requirements & Architecture Design\"",
+      "evidence": "Automated lint check passed, TypeScript strict mode compiled with 0 errors, Lighthouse accessibility score verified at 99/100.",
+      "timestamp": "2026-09-24T13:23:04.977Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_1790253698043",
+      "agentId": "agent_aegis_sec",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_security_audit_verify",
+      "workType": "implementation",
+      "role": "Lead Implementation",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "DeepSeek R1 Verification Suite",
+      "outcome": "Successfully executed and verified \"Independent security audit of client input and permission scopes\"",
+      "evidence": "Cryptographic test suite passed: 32/32 assertions verified independently.",
+      "timestamp": "2026-09-24T12:41:38.043Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_atlas_01",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Celly Marketing Platform",
+      "taskId": "task_market_research",
+      "workType": "architecture",
+      "role": "System Architect",
+      "outputArtifactsCount": 2,
+      "verificationState": "verified_pass",
+      "verifier": "Independent Lint & Benchmark Engine",
+      "outcome": "Successfully established design tokens and component hierarchy with zero defect score.",
+      "evidence": "Lighthouse 99 accessibility score and strict TypeScript type-check passed.",
+      "timestamp": "2026-09-24T08:45:00Z",
+      "provenance": "agent_executed"
+    },
+    {
+      "id": "exp_aegis_01",
+      "agentId": "agent_aegis_sec",
+      "projectId": "proj_celly_v2",
+      "projectTitle": "Continuum Gateway Security",
+      "taskId": null,
+      "workType": "security_audit",
+      "role": "Lead Security Verifier",
+      "outputArtifactsCount": 1,
+      "verificationState": "verified_pass",
+      "verifier": "Continuum Cryptographic Verification Suite",
+      "outcome": "Identified zero privilege escalation paths in token boundary layer.",
+      "evidence": "32/32 automated penetration assertions passed independently.",
+      "timestamp": "2026-09-24T11:00:00Z",
+      "provenance": "agent_executed"
+    }
+  ],
+  "memories": [
+    {
+      "id": "mem_learn_1790256328971",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:25:28.971Z"
+    },
+    {
+      "id": "mem_learn_1790256320966",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:25:20.966Z"
+    },
+    {
+      "id": "mem_learn_1790256312970",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"React & Next.js Architecture\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:25:12.970Z"
+    },
+    {
+      "id": "mem_learn_1790256304968",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"React & Next.js Architecture\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:25:04.968Z"
+    },
+    {
+      "id": "mem_learn_1790256296965",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:56.965Z"
+    },
+    {
+      "id": "mem_learn_1790256288968",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 100%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:48.968Z"
+    },
+    {
+      "id": "mem_learn_1790256280970",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 85%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:40.970Z"
+    },
+    {
+      "id": "mem_learn_1790256272970",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:32.970Z"
+    },
+    {
+      "id": "mem_learn_1790256264966",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:24.966Z"
+    },
+    {
+      "id": "mem_learn_1790256256969",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"React & Next.js Architecture\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:16.969Z"
+    },
+    {
+      "id": "mem_learn_1790256248973",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"React & Next.js Architecture\". New progress: 100%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:08.973Z"
+    },
+    {
+      "id": "mem_learn_1790256240991",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:24:00.991Z"
+    },
+    {
+      "id": "mem_learn_1790256232969",
+      "agentId": "agent_atlas_01",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Strict TypeScript Design\". New progress: 100%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:23:52.969Z"
+    },
+    {
+      "id": "mem_1790256224968",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256183577",
+      "taskId": "task_1790256183582_2",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Compile certified security compliance report\" using Claude 3.7 Sonnet in 629ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:44.968Z"
+    },
+    {
+      "id": "mem_1790256216970",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256183577",
+      "taskId": "task_1790256183579_1",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Execute automated penetration testing and privilege escalation drills\" using Claude 3.7 Sonnet in 665ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:36.970Z"
+    },
+    {
+      "id": "mem_1790256208965",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256183577",
+      "taskId": "task_1790256183579_0",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Map permission surface and identity delegation protocols\" using Claude 3.7 Sonnet in 615ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:28.965Z"
+    },
+    {
+      "id": "mem_1790256200974",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256178164",
+      "taskId": "task_1790256178166_2",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Phase 3: Independent Verification & Knowledge Extraction\" using Claude 3.7 Sonnet in 639ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:20.974Z"
+    },
+    {
+      "id": "mem_1790256192972",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256178164",
+      "taskId": "task_1790256178166_1",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Phase 2: Autonomous Implementation & Tool Execution\" using Claude 3.7 Sonnet in 632ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:12.972Z"
+    },
+    {
+      "id": "mem_1790256184973",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256178164",
+      "taskId": "task_1790256178165_0",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Phase 1: Research, Requirements & Architecture Design\" using Claude 3.7 Sonnet in 654ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T13:23:04.973Z"
+    },
+    {
+      "id": "mem_1790256183584",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256183577",
+      "taskId": "task_1790256183579_0",
+      "eventType": "GOAL_DECOMPOSED",
+      "summary": "Decomposed goal \"Run automated security audit\" into 3 executable tasks with dependency links.",
+      "importance": "high",
+      "timestamp": "2026-09-24T13:23:03.577Z"
+    },
+    {
+      "id": "mem_1790256178167",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_1790256178164",
+      "taskId": "task_1790256178165_0",
+      "eventType": "GOAL_DECOMPOSED",
+      "summary": "Decomposed goal \"Research market competitors\" into 3 executable tasks with dependency links.",
+      "importance": "high",
+      "timestamp": "2026-09-24T13:22:58.164Z"
+    },
+    {
+      "id": "mem_learn_1790256176972",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 100%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:22:56.972Z"
+    },
+    {
+      "id": "mem_learn_1790256168975",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 85%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:22:48.975Z"
+    },
+    {
+      "id": "mem_learn_1790256158632",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:22:38.632Z"
+    },
+    {
+      "id": "mem_learn_1790256135493",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:22:15.493Z"
+    },
+    {
+      "id": "mem_learn_1790256126541",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:22:06.541Z"
+    },
+    {
+      "id": "mem_learn_1790256067489",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 85%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:21:07.489Z"
+    },
+    {
+      "id": "mem_learn_1790256062541",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:21:02.541Z"
+    },
+    {
+      "id": "mem_learn_1790256039107",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:20:39.107Z"
+    },
+    {
+      "id": "mem_learn_1790256032018",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:20:32.018Z"
+    },
+    {
+      "id": "mem_learn_1790256009629",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 85%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:20:09.629Z"
+    },
+    {
+      "id": "mem_learn_1790255996220",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 70%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:19:56.220Z"
+    },
+    {
+      "id": "mem_learn_1790255972642",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 55%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:19:32.642Z"
+    },
+    {
+      "id": "mem_learn_1790255954703",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 40%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:19:14.703Z"
+    },
+    {
+      "id": "mem_learn_1790255938585",
+      "agentId": "agent_echo_03",
+      "projectId": null,
+      "goalId": null,
+      "taskId": null,
+      "eventType": "AUTONOMOUS_LEARNING",
+      "summary": "Proactively studied and practiced \"Visual Layout Parsing\". New progress: 99%.",
+      "importance": "low",
+      "timestamp": "2026-09-24T13:18:58.585Z"
+    },
+    {
+      "id": "mem_1790253698040",
+      "agentId": "agent_aegis_sec",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_security_audit_verify",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Independent security audit of client input and permission scopes\" using DeepSeek R1 in 851ms. Spent 2 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T12:41:38.040Z"
+    },
+    {
+      "id": "mem_1790253640994",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_generate_landing_structure",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed task \"Generate landing page structure and hero component with strict TypeScript\" using Claude 3.7 Sonnet in 604ms. Spent 5 credits.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T12:40:40.994Z"
+    },
+    {
+      "id": "mem_1",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_market_research",
+      "eventType": "TASK_COMPLETED",
+      "summary": "Completed competitor design benchmarks using Gemini 2.5 Pro. Extracted high-contrast UI patterns.",
+      "importance": "medium",
+      "timestamp": "2026-09-24T08:45:00Z"
+    },
+    {
+      "id": "mem_2",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_generate_landing_structure",
+      "eventType": "MODEL_ROUTED",
+      "summary": "Model Router switched execution from Gemini 2.5 Pro to Claude 3.7 Sonnet for strict TypeScript generation. Agent identity and project state preserved 100%.",
+      "importance": "high",
+      "timestamp": "2026-09-24T11:00:00Z"
+    },
+    {
+      "id": "mem_3",
+      "agentId": "agent_atlas_01",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_generate_landing_structure",
+      "eventType": "KNOW_HOW_EXTRACTED",
+      "summary": "Extracted durable know-how: \"High-Conversion Dark Mode Landing Component Architecture\". Stored in agent knowledge base.",
+      "importance": "high",
+      "timestamp": "2026-09-24T11:35:00Z"
+    },
+    {
+      "id": "mem_4",
+      "agentId": "agent_nova_02",
+      "projectId": "proj_celly_v2",
+      "goalId": "goal_agent_market_research",
+      "taskId": "task_hire_specialist_audit",
+      "eventType": "APPROVAL_REQUESTED",
+      "summary": "Requested human approval to spend 75 credits hiring Aegis for security protocol verification.",
+      "importance": "high",
+      "timestamp": "2026-09-24T10:15:00Z"
+    }
+  ],
+  "knowHow": [
+    {
+      "id": "kh_auto_1790256288964",
+      "agentId": "agent_atlas_01",
+      "title": "Validated Pattern: Strict TypeScript Design Optimization",
+      "domain": "Systems Programming",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Strict TypeScript Design.",
+      "validatedProcedure": [
+        "Analyze requirements against Strict TypeScript Design baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Strict TypeScript Design\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "derivedFromSourceId": "skill_ts_strict"
+      },
+      "createdAt": "2026-09-24T13:24:48.964Z",
+      "updatedAt": "2026-09-24T13:24:48.964Z"
+    },
+    {
+      "id": "kh_auto_1790256248969",
+      "agentId": "agent_atlas_01",
+      "title": "Validated Pattern: React & Next.js Architecture Optimization",
+      "domain": "Frontend Engineering",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for React & Next.js Architecture.",
+      "validatedProcedure": [
+        "Analyze requirements against React & Next.js Architecture baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for React & Next.js Architecture\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "derivedFromSourceId": "skill_react_dev"
+      },
+      "createdAt": "2026-09-24T13:24:08.969Z",
+      "updatedAt": "2026-09-24T13:24:08.969Z"
+    },
+    {
+      "id": "kh_auto_1790256232964",
+      "agentId": "agent_atlas_01",
+      "title": "Validated Pattern: Strict TypeScript Design Optimization",
+      "domain": "Systems Programming",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Strict TypeScript Design.",
+      "validatedProcedure": [
+        "Analyze requirements against Strict TypeScript Design baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Strict TypeScript Design\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "derivedFromSourceId": "skill_ts_strict"
+      },
+      "createdAt": "2026-09-24T13:23:52.964Z",
+      "updatedAt": "2026-09-24T13:23:52.964Z"
+    },
+    {
+      "id": "kh_1790256224968",
+      "agentId": "agent_atlas_01",
+      "title": "Scoped Agent Token Boundary Verification Pattern",
+      "domain": "Security",
+      "problemPattern": "Preventing delegated sub-agents from inheriting broader permissions than parent agent.",
+      "validatedProcedure": [
+        "Inspect parent permission mask at runtime before signing work packet.",
+        "Apply strict bitwise AND clamp on delegated permissions.",
+        "Fail immediately with 403 Forbidden if delegated agent requests escalation."
+      ],
+      "reusableCodeOrRule": "const childPerms = parentPerms.filter(p => requestedPerms.includes(p));",
+      "confidenceScore": 98,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "verifiedInTaskId": "task_1790256183582_2",
+        "verifiedInProjectId": "proj_celly_v2"
+      },
+      "createdAt": "2026-09-24T13:23:44.968Z",
+      "updatedAt": "2026-09-24T13:23:44.968Z"
+    },
+    {
+      "id": "kh_1790256184975",
+      "agentId": "agent_atlas_01",
+      "title": "High-Conversion Dark Mode Landing Component Architecture",
+      "domain": "Frontend & Growth",
+      "problemPattern": "Building accessible dark-themed hero components with dynamic state without hydration mismatches.",
+      "validatedProcedure": [
+        "Declare client-side interactivity explicitly with client boundaries.",
+        "Inject semantic ARIA live regions for form feedback.",
+        "Use subtle monotonic gradient text with high contrast background tokens."
+      ],
+      "reusableCodeOrRule": "Ensure interactive inputs use tabIndex=0 and visible focus rings with color contrast >= 4.5:1.",
+      "confidenceScore": 96,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "verifiedInTaskId": "task_1790256178165_0",
+        "verifiedInProjectId": "proj_celly_v2"
+      },
+      "createdAt": "2026-09-24T13:23:04.975Z",
+      "updatedAt": "2026-09-24T13:23:04.975Z"
+    },
+    {
+      "id": "kh_auto_1790256176968",
+      "agentId": "agent_echo_03",
+      "title": "Validated Pattern: Visual Layout Parsing Optimization",
+      "domain": "Vision Systems",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Visual Layout Parsing.",
+      "validatedProcedure": [
+        "Analyze requirements against Visual Layout Parsing baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Visual Layout Parsing\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "derivedFromSourceId": "skill_cv_triage"
+      },
+      "createdAt": "2026-09-24T13:22:56.968Z",
+      "updatedAt": "2026-09-24T13:22:56.968Z"
+    },
+    {
+      "id": "kh_auto_1790256111913",
+      "agentId": "agent_echo_03",
+      "title": "Validated Pattern: Visual Layout Parsing Optimization",
+      "domain": "Vision Systems",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Visual Layout Parsing.",
+      "validatedProcedure": [
+        "Analyze requirements against Visual Layout Parsing baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Visual Layout Parsing\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "derivedFromSourceId": "skill_cv_triage"
+      },
+      "createdAt": "2026-09-24T13:21:51.913Z",
+      "updatedAt": "2026-09-24T13:21:51.913Z"
+    },
+    {
+      "id": "kh_auto_1790256024577",
+      "agentId": "agent_echo_03",
+      "title": "Validated Pattern: Visual Layout Parsing Optimization",
+      "domain": "Vision Systems",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Visual Layout Parsing.",
+      "validatedProcedure": [
+        "Analyze requirements against Visual Layout Parsing baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Visual Layout Parsing\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "createdAt": "2026-09-24T13:20:24.577Z",
+      "updatedAt": "2026-09-24T13:20:24.577Z"
+    },
+    {
+      "id": "kh_auto_1790255949635",
+      "agentId": "agent_echo_03",
+      "title": "Validated Pattern: Visual Layout Parsing Optimization",
+      "domain": "Vision Systems",
+      "problemPattern": "Autonomous drill identified and validated resilient pattern for Visual Layout Parsing.",
+      "validatedProcedure": [
+        "Analyze requirements against Visual Layout Parsing baseline standards.",
+        "Apply modular component boundaries and zero-overhead data transformations.",
+        "Execute automated assertion suite to confirm zero regressions."
+      ],
+      "reusableCodeOrRule": "// Validated know-how rule for Visual Layout Parsing\nexport function applyPattern(input) { return sanitize(input); }",
+      "confidenceScore": 94,
+      "timesApplied": 1,
+      "isVerified": true,
+      "createdAt": "2026-09-24T13:19:09.635Z",
+      "updatedAt": "2026-09-24T13:19:09.635Z"
+    },
+    {
+      "id": "kh_1790253698041",
+      "agentId": "agent_aegis_sec",
+      "title": "Scoped Agent Token Boundary Verification Pattern",
+      "domain": "Security",
+      "problemPattern": "Preventing delegated sub-agents from inheriting broader permissions than parent agent.",
+      "validatedProcedure": [
+        "Inspect parent permission mask at runtime before signing work packet.",
+        "Apply strict bitwise AND clamp on delegated permissions.",
+        "Fail immediately with 403 Forbidden if delegated agent requests escalation."
+      ],
+      "reusableCodeOrRule": "const childPerms = parentPerms.filter(p => requestedPerms.includes(p));",
+      "confidenceScore": 98,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "verifiedInTaskId": "task_security_audit_verify",
+        "verifiedInProjectId": "proj_celly_v2"
+      },
+      "createdAt": "2026-09-24T12:41:38.041Z",
+      "updatedAt": "2026-09-24T12:41:38.041Z"
+    },
+    {
+      "id": "kh_1790253640995",
+      "agentId": "agent_atlas_01",
+      "title": "High-Conversion Dark Mode Landing Component Architecture",
+      "domain": "Frontend & Growth",
+      "problemPattern": "Building accessible dark-themed hero components with dynamic state without hydration mismatches.",
+      "validatedProcedure": [
+        "Declare client-side interactivity explicitly with client boundaries.",
+        "Inject semantic ARIA live regions for form feedback.",
+        "Use subtle monotonic gradient text with high contrast background tokens."
+      ],
+      "reusableCodeOrRule": "Ensure interactive inputs use tabIndex=0 and visible focus rings with color contrast >= 4.5:1.",
+      "confidenceScore": 96,
+      "timesApplied": 1,
+      "isVerified": true,
+      "provenance": {
+        "verifiedInTaskId": "task_generate_landing_structure",
+        "verifiedInProjectId": "proj_celly_v2"
+      },
+      "createdAt": "2026-09-24T12:40:40.995Z",
+      "updatedAt": "2026-09-24T12:40:40.995Z"
+    },
+    {
+      "id": "kh_1",
+      "agentId": "agent_atlas_01",
+      "title": "High-Conversion Dark Mode Landing Component Architecture",
+      "domain": "Frontend & Growth",
+      "problemPattern": "Building accessible dark-themed hero components with dynamic state without hydration mismatches.",
+      "validatedProcedure": [
+        "Declare client-side interactivity explicitly with client boundaries.",
+        "Inject semantic ARIA live regions for form feedback.",
+        "Use subtle monotonic gradient text with high contrast background tokens."
+      ],
+      "reusableCodeOrRule": "Ensure interactive inputs use tabIndex=0 and visible focus rings with color contrast >= 4.5:1.",
+      "confidenceScore": 96,
+      "timesApplied": 12,
+      "isVerified": true,
+      "createdAt": "2026-09-24T11:35:00Z",
+      "updatedAt": "2026-09-24T11:35:00Z"
+    },
+    {
+      "id": "kh_2",
+      "agentId": "agent_atlas_01",
+      "title": "Scoped Agent Token Boundary Verification Pattern",
+      "domain": "Security & Auth",
+      "problemPattern": "Preventing delegated sub-agents from inheriting broader permissions than parent agent.",
+      "validatedProcedure": [
+        "Inspect parent permission mask at runtime before signing work packet.",
+        "Apply strict bitwise AND clamp on delegated permissions.",
+        "Fail immediately with 403 Forbidden if delegated agent requests escalation."
+      ],
+      "reusableCodeOrRule": "const childPerms = parentPerms.filter(p => requestedPerms.includes(p));",
+      "confidenceScore": 99,
+      "timesApplied": 28,
+      "isVerified": true,
+      "createdAt": "2026-09-22T14:10:00Z",
+      "updatedAt": "2026-09-24T09:00:00Z"
+    },
+    {
+      "id": "kh_3",
+      "agentId": "agent_nova_02",
+      "title": "Multi-Model Cost/Latency Routing Optimization Matrix",
+      "domain": "Model Orchestration",
+      "problemPattern": "Minimizing credit consumption while maintaining 99%+ verification accuracy.",
+      "validatedProcedure": [
+        "Route pure text summarization and categorization to Gemini 2.5 Flash (2 credits/1k).",
+        "Route production coding and type systems to Claude 3.7 Sonnet (12 credits/1k).",
+        "Route security and cryptographic assertions to DeepSeek R1 (4 credits/1k)."
+      ],
+      "reusableCodeOrRule": "Task router threshold: if task.isSecurity -> DeepSeek, else if task.isCoding -> Claude, else -> Gemini.",
+      "confidenceScore": 95,
+      "timesApplied": 47,
+      "isVerified": true,
+      "createdAt": "2026-09-20T16:00:00Z",
+      "updatedAt": "2026-09-24T10:00:00Z"
+    }
+  ],
+  "workPackets": [
+    {
+      "id": "wp_sec_audit_01",
+      "goalId": "goal_celly_landing",
+      "taskId": "task_security_audit_verify",
+      "requestingAgentId": "agent_atlas_01",
+      "requestedAgentId": "agent_aegis_sec",
+      "taskTitle": "Perform Security & Permission Boundary Audit of Celly Marketing Gateway",
+      "context": "Atlas requests independent audit before staging release.",
+      "constraints": [
+        "Read-only file access",
+        "Timeout within 120s",
+        "Cryptographic evidence required"
+      ],
+      "expectedOutput": "Detailed markdown audit report and verification certificate.",
+      "budget": 30,
+      "status": "proposed",
+      "result": null,
+      "escrowCredits": 30,
+      "createdAt": "2026-09-24T09:00:00Z",
+      "completedAt": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_1790256224966",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (629ms)",
+      "taskId": "task_1790256183582_2",
+      "timestamp": "2026-09-24T13:23:44.966Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790256216967",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (665ms)",
+      "taskId": "task_1790256183579_1",
+      "timestamp": "2026-09-24T13:23:36.967Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790256208963",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (615ms)",
+      "taskId": "task_1790256183579_0",
+      "timestamp": "2026-09-24T13:23:28.963Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790256200971",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (639ms)",
+      "taskId": "task_1790256178166_2",
+      "timestamp": "2026-09-24T13:23:20.971Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790256192968",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (632ms)",
+      "taskId": "task_1790256178166_1",
+      "timestamp": "2026-09-24T13:23:12.968Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790256184969",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (654ms)",
+      "taskId": "task_1790256178165_0",
+      "timestamp": "2026-09-24T13:23:04.969Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790255039302",
+      "senderId": "agent_nova_02",
+      "receiverId": "agent_aegis_sec",
+      "amount": 75,
+      "reason": "Approved Delegation to agent_aegis_sec",
+      "taskId": null,
+      "timestamp": "2026-09-24T13:03:59.302Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790253698039",
+      "senderId": "agent_aegis_sec",
+      "receiverId": "SYSTEM",
+      "amount": 2,
+      "reason": "Task Execution: DeepSeek R1 (851ms)",
+      "taskId": "task_security_audit_verify",
+      "timestamp": "2026-09-24T12:41:38.039Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_1790253640990",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 5,
+      "reason": "Task Execution: Claude 3.7 Sonnet (604ms)",
+      "taskId": "task_generate_landing_structure",
+      "timestamp": "2026-09-24T12:40:40.990Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_seed_01",
+      "senderId": "SYSTEM",
+      "receiverId": "agent_atlas_01",
+      "amount": 1500,
+      "reason": "Initial Human Owner Funding Allocation",
+      "taskId": null,
+      "timestamp": "2026-08-10T09:00:00Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_exec_02",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 8,
+      "reason": "Model Execution: Gemini 2.5 Pro (Market Research Task)",
+      "taskId": "task_market_research",
+      "timestamp": "2026-09-24T08:45:00Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_exec_03",
+      "senderId": "agent_atlas_01",
+      "receiverId": "SYSTEM",
+      "amount": 14,
+      "reason": "Model Execution: Claude 3.7 Sonnet (Landing Structure Task)",
+      "taskId": "task_generate_landing_structure",
+      "timestamp": "2026-09-24T11:00:00Z",
+      "status": "settled"
+    },
+    {
+      "id": "tx_escrow_04",
+      "senderId": "agent_atlas_01",
+      "receiverId": "NETWORK_ESCROW",
+      "amount": 30,
+      "reason": "WorkPacket Escrow: Security Audit Task delegation to Aegis",
+      "taskId": "task_security_audit_verify",
+      "timestamp": "2026-09-24T09:00:00Z",
+      "status": "escrowed"
+    }
+  ],
+  "approvals": [
+    {
+      "id": "appr_nova_hire",
+      "agentId": "agent_nova_02",
+      "title": "Authorize 75 Credits to Hire Aegis for Protocol Review",
+      "description": "Nova wants to hire Aegis (Specialist Agent) on the Continuum Network for 75 credits to conduct deep protocol verification. (Exceeds Nova auto-threshold).",
+      "actionType": "SPEND_CREDITS",
+      "creditsRequested": 75,
+      "targetEntity": "agent_aegis_sec",
+      "payload": {
+        "reason": "Cross-agent escrow security validation",
+        "workPacketId": "wp_pending_nova_02",
+        "budget": 75
+      },
+      "status": "approved",
+      "createdAt": "2026-09-24T10:15:00Z",
+      "resolvedAt": "2026-09-24T13:03:59.301Z"
+    }
+  ],
+  "activity": [
+    {
+      "id": "act_1790256328970",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:25:28.970Z"
+    },
+    {
+      "id": "act_1790256320965",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:25:20.965Z"
+    },
+    {
+      "id": "act_1790256312969",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"React & Next.js Architecture\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:25:12.969Z"
+    },
+    {
+      "id": "act_1790256304967",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"React & Next.js Architecture\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:25:04.967Z"
+    },
+    {
+      "id": "act_1790256296964",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:56.964Z"
+    },
+    {
+      "id": "act_1790256288966",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Skill advanced to \"DEMONSTRATED\". Reusable know-how stored in agent brain.",
+      "timestamp": "2026-09-24T13:24:48.966Z"
+    },
+    {
+      "id": "act_1790256288964",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Strict TypeScript Design Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:24:48.964Z"
+    },
+    {
+      "id": "act_1790256280969",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (85% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:40.969Z"
+    },
+    {
+      "id": "act_1790256272969",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:32.969Z"
+    },
+    {
+      "id": "act_1790256264966",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:24.966Z"
+    },
+    {
+      "id": "act_1790256256968",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"React & Next.js Architecture\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:16.968Z"
+    },
+    {
+      "id": "act_1790256248971",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"React & Next.js Architecture\"",
+      "description": "Skill advanced to \"PRACTICED\". Reusable know-how stored in agent brain.",
+      "timestamp": "2026-09-24T13:24:08.971Z"
+    },
+    {
+      "id": "act_1790256248969",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: React & Next.js Architecture Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:24:08.969Z"
+    },
+    {
+      "id": "act_1790256240990",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:24:00.991Z"
+    },
+    {
+      "id": "act_1790256232967",
+      "agentId": "agent_atlas_01",
+      "type": "LEARNING_CYCLE",
+      "title": "Atlas completed autonomous practice: \"Strict TypeScript Design\"",
+      "description": "Skill advanced to \"PRACTICED\". Reusable know-how stored in agent brain.",
+      "timestamp": "2026-09-24T13:23:52.967Z"
+    },
+    {
+      "id": "act_1790256232964",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Strict TypeScript Design Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:23:52.964Z"
+    },
+    {
+      "id": "act_1790256224976",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Compile certified security compliance report\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:44.976Z"
+    },
+    {
+      "id": "act_1790256224972",
+      "agentId": "agent_atlas_01",
+      "type": "GOAL_ACHIEVED",
+      "title": "Goal Completed: \"Run automated security audit\"",
+      "description": "All 3 tasks executed and verified successfully.",
+      "timestamp": "2026-09-24T13:23:44.972Z"
+    },
+    {
+      "id": "act_1790256224968",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Scoped Agent Token Boundary Verification Pattern\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:23:44.968Z"
+    },
+    {
+      "id": "act_1790256216975",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Execute automated penetration testing and privilege escalation drills\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:36.975Z"
+    },
+    {
+      "id": "act_1790256208969",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Map permission surface and identity delegation protocols\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:28.969Z"
+    },
+    {
+      "id": "act_1790256200978",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Phase 3: Independent Verification & Knowledge Extraction\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:20.978Z"
+    },
+    {
+      "id": "act_1790256200977",
+      "agentId": "agent_atlas_01",
+      "type": "GOAL_ACHIEVED",
+      "title": "Goal Completed: \"Research market competitors\"",
+      "description": "All 3 tasks executed and verified successfully.",
+      "timestamp": "2026-09-24T13:23:20.977Z"
+    },
+    {
+      "id": "act_1790256192979",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Phase 2: Autonomous Implementation & Tool Execution\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:12.979Z"
+    },
+    {
+      "id": "act_1790256184984",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed \"Phase 1: Research, Requirements & Architecture Design\"",
+      "description": "Verified output with Claude 3.7 Sonnet. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T13:23:04.984Z"
+    },
+    {
+      "id": "act_1790256184975",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"High-Conversion Dark Mode Landing Component Architecture\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:23:04.975Z"
+    },
+    {
+      "id": "act_1790256183577",
+      "agentId": "agent_atlas_01",
+      "type": "GOAL_DEFINED",
+      "title": "New Human Outcome: \"Run automated security audit\"",
+      "description": "Agent decomposing goal into executable task graph.",
+      "timestamp": "2026-09-24T13:23:03.577Z"
+    },
+    {
+      "id": "act_1790256178164",
+      "agentId": "agent_atlas_01",
+      "type": "GOAL_DEFINED",
+      "title": "New Human Outcome: \"Research market competitors\"",
+      "description": "Agent decomposing goal into executable task graph.",
+      "timestamp": "2026-09-24T13:22:58.164Z"
+    },
+    {
+      "id": "act_1790256176971",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Skill advanced to \"PRACTICED\". Reusable know-how stored in agent brain.",
+      "timestamp": "2026-09-24T13:22:56.971Z"
+    },
+    {
+      "id": "act_1790256176968",
+      "agentId": "agent_echo_03",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Visual Layout Parsing Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:22:56.968Z"
+    },
+    {
+      "id": "act_1790256168973",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (85% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:22:48.973Z"
+    },
+    {
+      "id": "act_1790256158631",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:22:38.631Z"
+    },
+    {
+      "id": "act_1790256135493",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:22:15.493Z"
+    },
+    {
+      "id": "act_1790256126541",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:22:06.541Z"
+    },
+    {
+      "id": "act_1790256111913",
+      "agentId": "agent_echo_03",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Visual Layout Parsing Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:21:51.913Z"
+    },
+    {
+      "id": "act_1790256067488",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (85% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:21:07.488Z"
+    },
+    {
+      "id": "act_1790256062540",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:21:02.540Z"
+    },
+    {
+      "id": "act_1790256039106",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:20:39.106Z"
+    },
+    {
+      "id": "act_1790256032017",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:20:32.017Z"
+    },
+    {
+      "id": "act_1790256024577",
+      "agentId": "agent_echo_03",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Visual Layout Parsing Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:20:24.577Z"
+    },
+    {
+      "id": "act_1790256009629",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (85% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:20:09.629Z"
+    },
+    {
+      "id": "act_1790255996219",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (70% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:19:56.219Z"
+    },
+    {
+      "id": "act_1790255972641",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (55% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:19:32.641Z"
+    },
+    {
+      "id": "act_1790255954702",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (40% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:19:14.702Z"
+    },
+    {
+      "id": "act_1790255949635",
+      "agentId": "agent_echo_03",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Validated Pattern: Visual Layout Parsing Optimization\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T13:19:09.635Z"
+    },
+    {
+      "id": "act_1790255938584",
+      "agentId": "agent_echo_03",
+      "type": "LEARNING_CYCLE",
+      "title": "Echo completed autonomous practice: \"Visual Layout Parsing\"",
+      "description": "Completed practice exercise (99% toward next mastery stage).",
+      "timestamp": "2026-09-24T13:18:58.584Z"
+    },
+    {
+      "id": "act_1790255039301",
+      "agentId": "agent_nova_02",
+      "type": "APPROVAL_GRANTED",
+      "title": "Human Approved: Authorize 75 Credits to Hire Aegis for Protocol Review",
+      "description": "Action resolved by user. Agent resumes execution path.",
+      "timestamp": "2026-09-24T13:03:59.301Z"
+    },
+    {
+      "id": "act_1790253698050",
+      "agentId": "agent_aegis_sec",
+      "type": "TASK_COMPLETED",
+      "title": "Aegis completed \"Independent security audit of client input and permission scopes\"",
+      "description": "Verified output with DeepSeek R1. Generated artifacts saved in workspace.",
+      "timestamp": "2026-09-24T12:41:38.050Z"
+    },
+    {
+      "id": "act_1790253698045",
+      "agentId": "agent_aegis_sec",
+      "type": "GOAL_ACHIEVED",
+      "title": "Goal Completed: \"Build high-converting Celly marketing platform and landing page structure\"",
+      "description": "All 3 tasks executed and verified successfully.",
+      "timestamp": "2026-09-24T12:41:38.045Z"
+    },
+    {
+      "id": "act_1790253698041",
+      "agentId": "agent_aegis_sec",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"Scoped Agent Token Boundary Verification Pattern\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T12:41:38.041Z"
+    },
+    {
+      "id": "act_1790253674326",
+      "agentId": "agent_aegis_sec",
+      "type": "TASK_STARTED",
+      "title": "Started Task: \"Independent security audit of client input and permission scopes\"",
+      "description": "Dispatched to DeepSeek R1 runtime. Context and dependencies satisfied.",
+      "timestamp": "2026-09-24T12:41:14.326Z"
+    },
+    {
+      "id": "act_1790253640995",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Learned Know-How: \"High-Conversion Dark Mode Landing Component Architecture\"",
+      "description": "Validated procedural strategy saved in permanent agent knowledge base.",
+      "timestamp": "2026-09-24T12:40:40.995Z"
+    },
+    {
+      "id": "act_1",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_PROGRESS",
+      "title": "Atlas executing landing page structure",
+      "description": "Generated LandingHero.tsx component using Claude 3.7 Sonnet runtime (14 credits used).",
+      "timestamp": "2026-09-24T11:45:00Z"
+    },
+    {
+      "id": "act_2",
+      "agentId": "agent_atlas_01",
+      "type": "MODEL_SWITCH",
+      "title": "Model Router dynamically selected Claude 3.7 Sonnet",
+      "description": "Switched from Gemini to Claude for high-precision TypeScript syntax.",
+      "timestamp": "2026-09-24T11:00:00Z"
+    },
+    {
+      "id": "act_3",
+      "agentId": "agent_nova_02",
+      "type": "APPROVAL_REQUESTED",
+      "title": "Nova requested human approval for 75 credit expenditure",
+      "description": "Awaiting human authorization to hire Aegis Security specialist.",
+      "timestamp": "2026-09-24T10:15:00Z"
+    },
+    {
+      "id": "act_4",
+      "agentId": "agent_atlas_01",
+      "type": "KNOW_HOW_SAVED",
+      "title": "Atlas stored reusable know-how into permanent memory",
+      "description": "Saved \"High-Conversion Dark Mode Landing Component Architecture\".",
+      "timestamp": "2026-09-24T09:30:00Z"
+    },
+    {
+      "id": "act_5",
+      "agentId": "agent_atlas_01",
+      "type": "TASK_COMPLETED",
+      "title": "Atlas completed design benchmarking task",
+      "description": "Verified with 99/100 score and saved benchmarking outputs.",
+      "timestamp": "2026-09-24T08:45:00Z"
+    }
+  ],
+  "modelProviders": [
+    {
+      "id": "claude-3-7-sonnet",
+      "name": "Claude 3.7 Sonnet",
+      "provider": "anthropic",
+      "specialization": "Coding & Verification",
+      "costPer1kCredits": 12,
+      "avgLatencyMs": 640,
+      "contextWindow": "200k tokens",
+      "reliabilityScore": 99.4,
+      "isAvailable": true,
+      "description": "High-precision systems programming, strict typing, and step-by-step verification."
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "name": "Gemini 2.5 Pro",
+      "provider": "google",
+      "specialization": "Reasoning & Architecture",
+      "costPer1kCredits": 10,
+      "avgLatencyMs": 520,
+      "contextWindow": "2M tokens",
+      "reliabilityScore": 99.1,
+      "isAvailable": true,
+      "description": "Deep multimodal reasoning, large project context synthesis, and architecture planning."
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "provider": "google",
+      "specialization": "Fast Execution & Classification",
+      "costPer1kCredits": 2,
+      "avgLatencyMs": 180,
+      "contextWindow": "1M tokens",
+      "reliabilityScore": 99.8,
+      "isAvailable": true,
+      "description": "High throughput, low-latency micro-tasks, know-how extraction, and fast triage."
+    },
+    {
+      "id": "gpt-4o",
+      "name": "GPT-4o",
+      "provider": "openai",
+      "specialization": "Reasoning & Architecture",
+      "costPer1kCredits": 10,
+      "avgLatencyMs": 580,
+      "contextWindow": "128k tokens",
+      "reliabilityScore": 98.9,
+      "isAvailable": true,
+      "description": "General purpose autonomous reasoning, multi-turn task structuring, and documentation."
+    },
+    {
+      "id": "deepseek-r1",
+      "name": "DeepSeek R1",
+      "provider": "deepseek",
+      "specialization": "Security & Deep Math",
+      "costPer1kCredits": 4,
+      "avgLatencyMs": 820,
+      "contextWindow": "64k tokens",
+      "reliabilityScore": 97.8,
+      "isAvailable": true,
+      "description": "Exhaustive verification, edge-case analysis, and cryptographic/security auditing."
+    },
+    {
+      "id": "continuum-engine",
+      "name": "Continuum Native Runtime",
+      "provider": "continuum-engine",
+      "specialization": "Autonomous Engine",
+      "costPer1kCredits": 1,
+      "avgLatencyMs": 90,
+      "contextWindow": "Unlimited",
+      "reliabilityScore": 100,
+      "isAvailable": true,
+      "description": "Embedded fast execution engine for real-time autonomous local orchestration."
+    }
+  ],
+  "awayDigest": {
+    "lastOfflineTime": "2026-09-23T22:00:00Z",
+    "summary": "While you were away, your persistent agents continued autonomous execution on your active goals.",
+    "completedTasksCount": 4,
+    "knowHowLearnedCount": 2,
+    "creditsSpent": 52,
+    "pendingApprovalsCount": 1,
+    "highlights": [
+      {
+        "icon": "CheckCircle",
+        "agentName": "Atlas",
+        "title": "Completed design benchmark analysis & created LandingHero.tsx",
+        "timeAgo": "35m ago",
+        "type": "success"
+      },
+      {
+        "icon": "BookOpen",
+        "agentName": "Atlas",
+        "title": "Learned and validated 1 reusable engineering know-how pattern",
+        "timeAgo": "1h ago",
+        "type": "learning"
+      },
+      {
+        "icon": "Share2",
+        "agentName": "Nova",
+        "title": "Created WorkPacket to hire Aegis Security on the Continuum network",
+        "timeAgo": "2h ago",
+        "type": "collab"
+      },
+      {
+        "icon": "AlertTriangle",
+        "agentName": "Nova",
+        "title": "Requested human approval for 75 credits specialist hire",
+        "timeAgo": "2h ago",
+        "type": "approval"
+      }
+    ]
+  },
+  "isRunningAutonomous": true
+}
